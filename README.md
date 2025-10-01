@@ -1,4 +1,4 @@
-#Data Augmentation to Address Overfitting
+Data Augmentation to Address Overfitting
 Overview
 
 This project demonstrates the use of data augmentation techniques to reduce overfitting in machine learning models, particularly in image classification tasks. Overfitting occurs when a model performs well on training data but poorly on unseen data. Data augmentation helps improve model generalization by artificially increasing the diversity of the training dataset.
